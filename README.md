@@ -139,23 +139,16 @@ This will run eslint and prettier on your staged files whenever you attempt to c
 
 ------------
 ### Reference Link
-[[1] Understanding the Modern Web Stack: ESLint][eslint]
-[eslint]: https://dev.to/alexeagleson/understanding-the-modern-web-stack-linters-eslint-59pm "Understanding the Modern Web Stack: ESLint"
+[[1] Understanding the Modern Web Stack: ESLint][eslint]: https://dev.to/alexeagleson/understanding-the-modern-web-stack-linters-eslint-59pm
 
-[[2] Getting Started with ESLint][eslint]
-[eslint]: https://eslint.org/docs/latest/use/getting-started "Getting Started with ESLint"
+[[2] Getting Started with ESLint][eslint]: https://eslint.org/docs/latest/use/getting-started
 
-[[3] ESLint Tutorial with Examples and All Details!][eslint]
-[eslint]: https://www.swtestacademy.com/eslint-tutorial/ "ESLint Tutorial with Examples and All Details!"
+[[3] ESLint Tutorial with Examples and All Details!][eslint]: https://www.swtestacademy.com/eslint-tutorial/
 
-[[4] Setting up Prettier and ESlint for JS and React Apps][all]
-[eslint]: https://medium.com/dubizzletechblog/setting-up-prettier-and-eslint-for-js-and-react-apps-bbc779d29062 "Setting up Prettier and ESlint for JS and React Apps"
+[[4] Setting up Prettier and ESlint for JS and React Apps][all]: https://medium.com/dubizzletechblog/setting-up-prettier-and-eslint-for-js-and-react-apps-bbc779d29062
 
-[[5] Husky][husky]
-[husky]: https://typicode.github.io/husky/#/ "Husky"
+[[5] Husky][husky]: https://typicode.github.io/husky/#/
 
-[[6] ESLint with VSCode, Prettier, Husky and React For Beginners][all]
-[all]: https://youtu.be/ZXW6Jn6or1w "ESLint with VSCode, Prettier, Husky and React For Beginners"
+[[6] ESLint with VSCode, Prettier, Husky and React For Beginners][all]: https://youtu.be/ZXW6Jn6or1w
 
-[[7] Automate Prettier ESLint Your ReactJS App With Lint-Staged And Husky][all]
-[all]: https://youtu.be/C7D4nMvbdFQ "Automate Prettier ESLint Your ReactJS App With Lint-Staged And Husky"
+[[7] Automate Prettier ESLint Your ReactJS App With Lint-Staged And Husky][all]: https://youtu.be/C7D4nMvbdFQ
